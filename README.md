@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Jeyabharathi20/Leetcode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Jeyabharathi20/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Jeyabharathi20/Leetcode/tree/master/0118-pascals-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Jeyabharathi20/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
