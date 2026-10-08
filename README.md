@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Jeyabharathi20/Leetcode/tree/master/0856-score-of-parentheses) |
+| [3931-check-adjacent-digit-differences](https://github.com/Jeyabharathi20/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
 | ------- |
