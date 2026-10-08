@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Jeyabharathi20/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Jeyabharathi20/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Jeyabharathi20/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Simulation
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Jeyabharathi20/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Jeyabharathi20/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 <!---LeetCode Topics End-->
