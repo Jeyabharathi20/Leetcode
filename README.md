@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jeyabharathi20/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Jeyabharathi20/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Jeyabharathi20/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Jeyabharathi20/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Jeyabharathi20/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Jeyabharathi20/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
