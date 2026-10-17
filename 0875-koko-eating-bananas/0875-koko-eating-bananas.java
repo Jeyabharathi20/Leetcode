@@ -20,7 +20,7 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int low=1,high=findMax(piles);
         while(low<=high){
-            int mid=low+(high-low)/2;
+            int mid=(low+high)/2;
             int totalHours=hours(piles,mid);
             if(totalHours<=h){
                 high=mid-1;
