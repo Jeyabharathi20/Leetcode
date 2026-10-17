@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyabharathi20/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jeyabharathi20/Leetcode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeyabharathi20/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Jeyabharathi20/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Jeyabharathi20/Leetcode/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jeyabharathi20/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jeyabharathi20/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeyabharathi20/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyabharathi20/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeyabharathi20/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Jeyabharathi20/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jeyabharathi20/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Math
 |  |
